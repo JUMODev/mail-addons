@@ -11,6 +11,15 @@
 <br/>:heavy_check_mark: [mail_to](https://apps.odoo.com/apps/modules/11.0/mail_to/)
 <br/>:heavy_check_mark: [mailgun](https://apps.odoo.com/apps/modules/11.0/mailgun/)
 
+# [11.0] Removed Addons from Original Repository
+
+<br/> mail_recovery
+<br/> mail_check_immediately
+<br/> mail_fix_553
+<br/> mail_reply
+<br/> res_partner_mails_count
+<br/> res_partner_company_messages
+
 Other Addons
 ============
 
